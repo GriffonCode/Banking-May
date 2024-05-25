@@ -1,13 +1,16 @@
-<<<<<<< HEAD
 {Work in Progress - First commit as a project plan}
 
 # Loan Default Prediction Model Exercise
 
 This repository contains a series of notebooks developed for a Model Developer position at a bank, demonstrating foundational techniques in synthetic data generation, data preparation, modeling, and analysis for predicting loan defaults. All work is original, with significant use of Generative AI. 
 
+
+
 ## Project Overview
 
 The goal of this exercise is to create a loan default prediction model using a synthetic dataset. The model aims to predict whether a loan applicant is likely to default based on various features such as income, loan amount, credit history, and employment status.
+
+
 
 ## Key Steps
 
@@ -19,21 +22,18 @@ The goal of this exercise is to create a loan default prediction model using a s
 ### Model Development and Evaluation
 1. **Logistic Regression Model**
    - Model configuration with hyperparameter tuning using cross-validation.
-   - Evaluation through metrics such as ROC-AUC, accuracy, and precision.
+   - Evaluation through accuracy, precision, and f1-score
    
 2. **Random Forest Model**
    - Setup and tuning of the Random Forest classifier.
    - Analysis of feature importance to identify key predictors of default.
+   - Evaluation through accuracy, precision, and f1-score
    - Model validation and performance comparison against Logistic Regression.
 
 
-## Version Overview
-This project version addresses a synthetic dataset with a weak signal, which presents a significant challenge for the predictive models used. We applied both Logistic Regression and Random Forest models but found that neither could effectively predict outcomes given the dataset's limited features and signals. A concluding PCA analysis at the end of the random forest file `loan_default_random_forest.ipynb` visualzies
 
 ### Reflections and Future Directions
-The results highlight the difficulty of working with low signal-to-noise data using traditional methods. Looking ahead, we plan to test more complex models, such as ensembles that combine several approaches to improve accuracy. We also intend to work with a synthetic dataset that has a stronger signal, which should better demonstrate the potential of these models.
-
-Further developments will focus on refining our data processing and modeling techniques based on what we've learned from this version.
+{Work in Progress}
 
 
 
@@ -62,6 +62,3 @@ This project is designed as a practical demonstration of foundational modeling a
 ## Contact
 
 For any questions or feedback, feel free to contact me here or by email, shared separately.
-=======
-# Banking-May
->>>>>>> 8ae1581426c84ebcb1e92e00fb10002ace64a75d
