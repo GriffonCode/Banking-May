@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {Work in Progress - First commit as a project plan}
 
 # Loan Default Prediction Model Exercise
@@ -61,3 +62,6 @@ This project is designed as a practical demonstration of foundational modeling a
 ## Contact
 
 For any questions or feedback, feel free to contact me here or by email, shared separately.
+=======
+# Banking-May
+>>>>>>> 8ae1581426c84ebcb1e92e00fb10002ace64a75d
