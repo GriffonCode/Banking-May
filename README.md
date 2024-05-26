@@ -8,7 +8,7 @@ This repository contains a series of notebooks developed for a Model Developer p
 
 The goal of this exercise is to create a loan default prediction model using a synthetic dataset. The model aims to predict whether a loan applicant is likely to default based on various features such as income, loan amount, credit history, and employment status. 
 
-S more complete model would go beyond simple binary default prediction and incorporate weights based on loan amounts to reflect the financial impact of defaults and aims to predict default probabilities as a function of time. This approach can lead to proactive measures such as reducing loan amounts or extending repayment periods to minimize potential losses. We leave this as a further improvement, and add some remarks in its appropriate section in this readme.  
+A more complete model would go beyond simple binary default prediction and incorporate weights based on loan amounts to reflect the financial impact of defaults and aims to predict default probabilities as a function of time. This approach can lead to proactive measures such as reducing loan amounts or extending repayment periods to minimize potential losses. We leave this as a further improvement, and add some remarks in its appropriate section in this readme.  
 
 ## Key Steps
 
